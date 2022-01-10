@@ -26,4 +26,4 @@
 <a href="mailto:afashanu3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v8/web-64dp/logo_gmail_2020q4_color_1x_web_64dp.png"  width="70" /></a>
 <br>
 **LinkedIn:** <br>
-<a href="https://www.linkedin.com/https://www.linkedin.com/in/alex-fashanu-a18346216/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="180" /></a>
+<a href="https://www.linkedin.com/https://www.linkedin.com/in/alex-fashanu" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="180" /></a>
